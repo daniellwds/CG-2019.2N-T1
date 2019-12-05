@@ -8,14 +8,14 @@
         renderer.setSize(window.innerWidth, window.innerHeight);
 
         const camera = new THREE.PerspectiveCamera(55, window.innerWidth/window.innerHeight, 10, 100);
-        camera.position.set(0,30,50)
+        camera.position.set(-20,30,50)
 
         const controls = new OrbitControls(camera, canvas);
         controls.target.set(0, 10, 0);
         controls.update();
 
         const scene = new THREE.Scene();
-        scene.background = new THREE.Color('lightblue');
+        scene.background = new THREE.Color('#a0b7db');
 
         {
             const planeSize = 30;
