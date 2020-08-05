@@ -20,8 +20,3 @@ A câmera pode ser alterada usando o mouse, dando zoom e movimentando ela ao red
 ## Referências e créditos
 Modelo 3d por AlmondFeather, disponível em [https://sketchfab.com/3d-models/mimikyu-ad2aaa7bb372441984f40df49854b3eb](https://sketchfab.com/3d-models/mimikyu-ad2aaa7bb372441984f40df49854b3eb)
 Documentação da biblioteca Tree.js [https://threejs.org/](https://threejs.org/) 
-
-
-## Projeto disponível em:
-
-[https://daniellwds.github.io/](https://daniellwds.github.io/)
